@@ -1,0 +1,2 @@
+# poker-with-dices.java
+Jugando al poker Realizar un programa para que simule un dado de póker, cuyos valores pueden ser "Negro", "Rojo", "Jota", "Reina", "Rey", "As". Hacer un programa que almacene en un array cinco tiradas de dados de póker. Mostrar las cinco tiradas. Las posibles jugadas son: pareja, doble pareja, trío, full (trio y pareja), póker (cuatro cartas iguales) y repóker (las cinco cartas iguales), seguido por los dados que se repiten. Un ejemplo podría ser "Trío de Ases". El programa debe imprimir por consola los valores.
